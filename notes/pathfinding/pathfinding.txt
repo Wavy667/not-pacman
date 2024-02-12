@@ -1,0 +1,6 @@
+1: Get direction to target
+2: Determine which of the 4 cardinal directions it can move
+   ^^ Can't face backwards or directions facing a wall
+3: Compare angle difference between candidate directions to target angle
+4: Sort angle differences
+5: Choose shortest angle
